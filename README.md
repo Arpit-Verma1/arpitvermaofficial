@@ -4,37 +4,59 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=arpitvermaofficial&color=0e75b6)
 
 - 🔭 I’m currently learning Flutter (Dart) 
-- 💬 Ask me about anything
+- 💬 Ask me about Android App developement
 - 📫 How to reach me: arpitv747@gmail.com
+- 👯 I’m looking to collaborate on Different Project of **App Development**
+- ⚡ Fun fact: I Loves To write **Shyari** .
 
-[![@arpitverma123's Holopin board](https://holopin.me/arpitverma123)](https://holopin.io/@arpitverma123)
+
 <br>
 
 
+<div align="center">
 
-<h3 align="left">Programming Languages 💬</h3>
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Android" width="40" height="40"/></p>
+# Programming Languages 💬
 
-|||
-|:----------------------------------------:|:-----------------------------------------:|
-| <h3 align="center">Mobile App Development 📱</h3> <br> <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Android" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Android" width="40" height="40"/></p> | <h3 align="center">Web Development 💻 </h3><br><p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Android" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Android" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Android" width="40" height="40"/></p> |
+</div>
 
+<div align="center">
 
-<h3 align="left">Tools ⚙️ </h3>
-<p align="left"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Android" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Android" width="40" height="40"/><img src="https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg" alt="Android" width="40" height="40"/></p>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+</div>
 
+---
+<div align="center">
 
+# Connect with Me on Social Media 🌐
 
-## 📲 Connect with me on social media 
+</div>
 
+<div align="center">
 
-  <a href="https://linkedin.com/in/arpit-v-1a4205220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansuman-behera-7b00b61b6" height="30" width="40" /></a>
-  <a href="https://github.com/arpitvermaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="_ansuman_behera_/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18079531/arpit-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="_ansuman_behera_/" height="30" width="40" /></a>
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub&labelColor=silver&logo=github&logoColor=black&message=arpitvermaofficial&color=black&link=https://github.com/arpitvermaofficial)](https://github.com/arpitvermaofficial)
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&label=LinkedIn&labelColor=silver&logo=linkedin&logoColor=blue&message=Arpit_Verma&color=blue&link=https://linkedin.com/in/arpit-v-1a4205220)](https://linkedin.com/in/arpit-v-1a4205220)
+[![Stackoverflow](https://img.shields.io/static/v1?style=for-the-badge&label=stackoverflow&labelColor=silver&logo=stackoverflow&logoColor=blue&message=Arpit_Verma&color=blue&link=https://stackoverflow.com/users/18079531/arpit-verma)](https://stackoverflow.com/users/18079531/arpit-verma)
+</div>
+
+---
+
 
    
      
 # Productivity Stats📈:
+
+
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpitvermaofficial&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
@@ -43,11 +65,15 @@
 
 
 ## 📊 GitHub Activity
-| ![Arpit github stats](https://github-readme-stats.vercel.app/api?username=arpitvermaofficial&show_icons=true&theme=radical) | ![Arpit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arpitvermaofficial&theme=radical)                                                                                                           |
+| ![Arpit github stats](https://github-readme-stats.vercel.app/api?username=arpitvermaofficial&show_icons=true&theme=radical) | ![Arpit GitHub Streak](https://streak-stats.demolab.com/?user=arpitvermaofficial&hide_border=true&theme=dracula)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitvermaofficial&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=arpitvermaofficial&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+ | ![Trophy](https://github-profile-trophy.vercel.app/?username=arpitvermaofficial&theme=dracula&column=4&no-frame=true)|![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitvermaofficial&langs_count=10&hide_border=true&layout=compact&theme=dracula) |
+ 
+---
+[![@arpitverma123's Holopin board](https://holopin.me/arpitverma123)](https://holopin.io/@arpitverma123)
+<br>
 
-
+---
 ## 📚 My Education Status
 
 
