@@ -1,11 +1,11 @@
-<h1 align="center"> ⚡️ Crafting Magic: Apps from Widgets to Wonders with Flutter! 📱✨</h1>
-<h3 align="center">App Developer | Flutter Enthusiast | Problem Solver</h3>
+<h1 align="center">🚀 iOS Alchemist: Turning Swift & UIKit into Seamless Experiences 📱✨</h1>
+<h3 align="center">App Developer | iOS & Flutter Enthusiast | Problem Solver</h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=arpitvermaofficial&color=0e75b6)
 
-- 🔭 I’m currently working as a Full-Stack Mobile App Developer at CipherSchools
+- 🔭 I’m currently working as a iOS App Developer at Likeminds
 - 🌱 I’m learning Swift and iOS development (100-day challenge)
-- 💬 Ask me about Android & iOS App Development
+- 💬 Ask me about Flutter & iOS App Development
 - 📫 Reach me at: arpitv747@gmail.com
 - 👯 I’m looking to collaborate on **App Development Projects**
 - ⚡ Fun fact: I love to write **Shyari**
@@ -19,7 +19,8 @@
 
 | Role                          | Organization        | Tech Stack                                                                                      | TimeLine          |
 |-------------------------------|---------------------|-------------------------------------------------------------------------------------------------|-------------------|
-| Full-Stack Mobile App Developer | CipherSchools        | Flutter, Dart, SQLite, Hive, Tenor API, Socket.io                                                | Feb 2024 - Current|
+| iOS App Developer               | LikeMinds        | SwiftUI, UIKit, CoreData, CocoaPods                                                              | Apr 2025 - Present|
+| Mobile App Developer            | CipherSchools        | Flutter, Dart, SQLite, Hive, Tenor API, Socket.io                                                | Feb 2024 - March 2025|
 | Flutter Developer Intern       | While Network Pvt   | Flutter, Dart, SQLite, Firebase, REST APIs                                                      | May 2024 - Current|
 | Flutter Developer Intern       | Walnut Health Club  | Flutter, Dart, REST APIs, AWS, Stripe, Provider State Management                                 | Sept 2023 - Nov 2023 |
 | GDSC Lead                      | GDSC St. John College | Flutter, Firebase, Google Cloud Technologies                                                   | Jul 2023 - Current |
